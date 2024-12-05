@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Caesar Cypher Encrptor and Decryptor
+# Caesar Cypher Encrptor and Decryptor
 
 - The Caesar Cipher Encryptor and Decryptor is a Python program that implements the Caesar Cipher algorithm. It allows users to encrypt and decrypt messages by shifting the letters of the alphabet by a specified number (the "shift"). This cipher is one of the oldest and simplest encryption techniques used in classical cryptography.
 
